@@ -1,0 +1,4 @@
+<li><a href="index.php?id=main">메인 화면으로</a></li>
+<li><a href="index.php?id=js">JavaScript란?</a></li>
+<li><a href="index.php?id=vc">변수와 상수</a></li>
+<li><a href="index.php?id=operator">연산자</a></li>

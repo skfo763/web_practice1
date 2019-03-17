@@ -1,0 +1,43 @@
+body.dracula {
+    background-color: rgba(0, 0, 0, 0.73);
+    color:white;
+}
+body.white {
+    background-color:white;
+    color:black;
+}
+header {
+    border-bottom: 1px solid darkgrey;
+    padding:25px;
+}
+header img {
+    float:right;
+    padding-bottom: 10px;
+    width:100px;
+    height:100px;
+}
+nav {
+    border-right:1px solid darkgray;
+    width:200px;
+    height:600px;
+    float:left;
+}
+nav ol {
+    list-style:none;
+    padding-left:10px;
+}
+article {
+    float:left;
+    padding-top:10px;
+    padding-left:15px;
+    padding-right:15px;
+    width: 500px;
+}
+h2{
+    color:cornflowerblue;
+}
+#control {
+    padding-top: 5px;
+    padding-right: 10px;
+    float:right;
+}
